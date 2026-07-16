@@ -1,7 +1,7 @@
 
   # Professional Portfolio Website
 
-  This is a code bundle for Professional Portfolio Website. The original project is available at https://www.figma.com/design/fDULWCVjF4uTVtawdiZZGC/Professional-Portfolio-Website.
+
 
   ## Running the code
 
